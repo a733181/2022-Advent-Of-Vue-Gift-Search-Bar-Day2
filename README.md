@@ -2,4 +2,4 @@
 
 ## 2022-Xmas Joke Generator
 
-[Challenge URL](https://www.getrevue.co/profile/AdventOfVue/issues/day-2-xmas-joke-generator-1485223)
+[Challenge URL](https://github.com/Advent-Of-Vue/aov-joke-generator?utm_campaign=Advent%20Of%20Vue&utm_medium=email&utm_source=Revue%20newsletter)
